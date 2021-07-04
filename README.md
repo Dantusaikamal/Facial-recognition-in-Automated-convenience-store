@@ -15,7 +15,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
-<!-- Describe your project in brief -->
+A machine learning model that uses Natural Language Processing for facial recognition in automated convenience stores. 
 
 # Demo-Preview
 <!-- Add a demo for your project -->
