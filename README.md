@@ -1,12 +1,8 @@
 
-
-
-<!-- Add banner here -->
 ![Alt Text](https://github.com/Dantusaikamal/Facial-recognition-in-Automated-convenience-store/blob/main/facial%20detection.gif?raw=true)
 
 # Facial-recognition-in-Automated-convenience-store
 
-<!-- Add buttons here -->
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Dantusaikamal/Facial-recognition-in-Automated-convenience-store?include_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Dantusaikamal/Facial-recognition-in-Automated-convenience-store)
@@ -17,14 +13,10 @@
 
 A machine learning model that uses Natural Language Processing for facial recognition in automated convenience stores. 
 
-# Demo-Preview
-<!-- Add a demo for your project -->
-
 # Table of contents
 
 Here is the TOC this project.
 
-- [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
