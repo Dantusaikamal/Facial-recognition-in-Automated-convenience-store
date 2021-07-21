@@ -13,7 +13,7 @@
 
 A machine learning model that uses Natural Language Processing for facial recognition in automated convenience stores. 
 
-# Table of contents
+<!-- # Table of contents
 
 Here is the TOC this project.
 
@@ -68,3 +68,4 @@ Check out the LICENSE file in the repo.
 
 
 
+ -->
