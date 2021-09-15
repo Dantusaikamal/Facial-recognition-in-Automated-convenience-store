@@ -45,7 +45,6 @@ Here is the TOC this project.
 
 Please check Contribute.md to know how you can contribute to this project.
 
-Idea: You can develop a web application for taking user input for the AutoAI model.
 
 ### Sponsor
 [(Back to top)](#table-of-contents)
